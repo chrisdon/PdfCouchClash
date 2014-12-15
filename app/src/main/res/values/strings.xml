@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PDF Couch Clash</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="view_name_html">htmlID_by_ERPID</string>
+    <string name="doc_type">type</string>
+    <string name="doc_resource_type">resource_type</string>
+    <string name="doc_type_resource">resource</string>
+    <string name="doc_resource_type_html">html</string>
+    <string name="doc_id">_id</string>
+    <string name="doc_metadata">metadata</string>
+    <string name="doc_metadata_erp">erp</string>
+    <string name="doc_metadata_erp_ID">ID</string>
+
+</resources>

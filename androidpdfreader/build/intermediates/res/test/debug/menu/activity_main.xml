@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_settings"/>
+
+</menu><!-- From: file:/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/androidpdfreader/src/main/res/menu/activity_main.xml --><!-- From: file:/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/androidpdfreader/build/intermediates/bundles/debug/res/menu/activity_main.xml -->
