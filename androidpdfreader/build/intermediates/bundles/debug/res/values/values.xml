@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/androidpdfreader/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/cdonnelly/Documents/core_workspace/PdfCouchClashRepo/androidpdfreader/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">PDFHttpDemo</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
-    <!-- From: file:/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/androidpdfreader/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/cdonnelly/Documents/core_workspace/PdfCouchClashRepo/androidpdfreader/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--

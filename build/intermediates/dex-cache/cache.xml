@@ -9,11 +9,11 @@
         <dex dex="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/pre-dexed/debug/stateless4j-2.4.0-66b27a51f6cfd8bd5ba4a33ce4309833dc6040c5.jar" />
     </item>
     <item
-        jar="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jar="/Users/cdonnelly/Documents/core_workspace/PdfCouchClashRepo/app/build/intermediates/exploded-aar/PdfCouchClashRepo/androidpdfreader/unspecified/libs/com.radaee.view.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/pre-dexed/debug/classes-004a15280ec18a4dcbaa2de05976a7fd5665a858.jar" />
+        sha1="b7a330d0d1f28c5b17daf2905f213a250ac21b47">
+        <dex dex="/Users/cdonnelly/Documents/core_workspace/PdfCouchClashRepo/app/build/intermediates/pre-dexed/debug/com.radaee.view-2ea1fdc6049fe2b83b3227a741622f3089681a1f.jar" />
     </item>
     <item
         jar="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/exploded-aar/PDFCouchClash/androidpdfreader/unspecified/libs/com.radaee.view.jar"
@@ -23,11 +23,11 @@
         <dex dex="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/pre-dexed/debug/com.radaee.view-b79b735812623ead55e238a76bbccb1609d32c75.jar" />
     </item>
     <item
-        jar="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jar="/Users/cdonnelly/Documents/core_workspace/PdfCouchClashRepo/app/build/intermediates/exploded-aar/com.couchbase.lite/couchbase-lite-android/1.0.3.1/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/pre-dexed/debug/classes-dd9d0a0cbad6a469a2ce09369a0b302fbb4b1058.jar" />
+        sha1="a2fa0cc9a91d6064857f3ecb6cc4d8415982b567">
+        <dex dex="/Users/cdonnelly/Documents/core_workspace/PdfCouchClashRepo/app/build/intermediates/pre-dexed/debug/classes-6d9a8abc8ee97a8ac6e30800eef62ae40ef26381.jar" />
     </item>
     <item
         jar="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
@@ -35,6 +35,13 @@
         revision="21.1.2"
         sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
         <dex dex="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-bb7a0c880b26536370461be81bf6d84cfcee41d8.jar" />
+    </item>
+    <item
+        jar="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/exploded-aar/com.couchbase.lite/couchbase-lite-android/1.0.3.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a2fa0cc9a91d6064857f3ecb6cc4d8415982b567">
+        <dex dex="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/pre-dexed/debug/classes-d4edbbaf38c3658f5a4ddc4db9cc5534a289ab9e.jar" />
     </item>
     <item
         jar="/Users/cdonnelly/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.2/95400a7922ce75383866eb72f6ef4a7897923945/jackson-mapper-asl-1.9.2.jar"
@@ -51,13 +58,6 @@
         <dex dex="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/pre-dexed/debug/couchbase-lite-java-core-1.0.3.1-b2c2d31ad24684bfec7efbe1a341eb5f285172d2.jar" />
     </item>
     <item
-        jar="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/exploded-aar/com.couchbase.lite/couchbase-lite-android/1.0.3.1/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a2fa0cc9a91d6064857f3ecb6cc4d8415982b567">
-        <dex dex="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/pre-dexed/debug/classes-d4edbbaf38c3658f5a4ddc4db9cc5534a289ab9e.jar" />
-    </item>
-    <item
         jar="/Users/cdonnelly/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-core-asl/1.9.2/8493982bba1727106d767034bd0d8e77bc1931a9/jackson-core-asl-1.9.2.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -70,6 +70,48 @@
         revision="21.1.2"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
         <dex dex="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-e3c0a283f7125f9ba4a21ab47324813ad92307b4.jar" />
+    </item>
+    <item
+        jar="/Users/cdonnelly/Documents/core_workspace/PdfCouchClashRepo/app/build/intermediates/exploded-aar/PdfCouchClashRepo/androidpdfreader/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bf8271a13bc33966e25106a68e3426b9f37f58bc">
+        <dex dex="/Users/cdonnelly/Documents/core_workspace/PdfCouchClashRepo/app/build/intermediates/pre-dexed/debug/classes-27447abfce9837588c1fec254a626ee257eac56b.jar" />
+    </item>
+    <item
+        jar="/Users/cdonnelly/Documents/core_workspace/PdfCouchClashRepo/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/cdonnelly/Documents/core_workspace/PdfCouchClashRepo/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-b4acff22e36f010ddbaf7d854faf1bdf20d52169.jar" />
+    </item>
+    <item
+        jar="/Users/cdonnelly/Documents/core_workspace/PdfCouchClashRepo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/cdonnelly/Documents/core_workspace/PdfCouchClashRepo/app/build/intermediates/pre-dexed/debug/classes-ca88bba3046d6118442c4cceee729ef02ff68a78.jar" />
+    </item>
+    <item
+        jar="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/pre-dexed/debug/classes-004a15280ec18a4dcbaa2de05976a7fd5665a858.jar" />
+    </item>
+    <item
+        jar="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/pre-dexed/debug/classes-dd9d0a0cbad6a469a2ce09369a0b302fbb4b1058.jar" />
+    </item>
+    <item
+        jar="/Users/cdonnelly/Documents/core_workspace/PdfCouchClashRepo/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/cdonnelly/Documents/core_workspace/PdfCouchClashRepo/app/build/intermediates/pre-dexed/debug/classes-047136b1df14227ac9828c43e7521b7951d844b9.jar" />
     </item>
     <item
         jar="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/exploded-aar/PDFCouchClash/androidpdfreader/unspecified/classes.jar"

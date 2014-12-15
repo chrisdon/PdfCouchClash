@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PDFCouchClash.iml" filepath="$PROJECT_DIR$/PDFCouchClash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PdfCouchClashRepo.iml" filepath="$PROJECT_DIR$/PdfCouchClashRepo.iml" />
       <module fileurl="file://$PROJECT_DIR$/androidpdfreader/androidpdfreader.iml" filepath="$PROJECT_DIR$/androidpdfreader/androidpdfreader.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
