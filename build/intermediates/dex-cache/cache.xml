@@ -37,11 +37,11 @@
         <dex dex="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-bb7a0c880b26536370461be81bf6d84cfcee41d8.jar" />
     </item>
     <item
-        jar="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/exploded-aar/com.couchbase.lite/couchbase-lite-android/1.0.3.1/classes.jar"
+        jar="/Users/cdonnelly/.gradle/caches/modules-2/files-2.1/com.couchbase.lite/couchbase-lite-java-core/1.0.3.1/c96078de4bf2ec18e016e1453ef7a441b932ddca/couchbase-lite-java-core-1.0.3.1.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="a2fa0cc9a91d6064857f3ecb6cc4d8415982b567">
-        <dex dex="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/pre-dexed/debug/classes-d4edbbaf38c3658f5a4ddc4db9cc5534a289ab9e.jar" />
+        sha1="c96078de4bf2ec18e016e1453ef7a441b932ddca">
+        <dex dex="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/pre-dexed/debug/couchbase-lite-java-core-1.0.3.1-b2c2d31ad24684bfec7efbe1a341eb5f285172d2.jar" />
     </item>
     <item
         jar="/Users/cdonnelly/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.2/95400a7922ce75383866eb72f6ef4a7897923945/jackson-mapper-asl-1.9.2.jar"
@@ -51,11 +51,11 @@
         <dex dex="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/pre-dexed/debug/jackson-mapper-asl-1.9.2-ff45ccd164cba7f0e853a31e261888b9c9f2092a.jar" />
     </item>
     <item
-        jar="/Users/cdonnelly/.gradle/caches/modules-2/files-2.1/com.couchbase.lite/couchbase-lite-java-core/1.0.3.1/c96078de4bf2ec18e016e1453ef7a441b932ddca/couchbase-lite-java-core-1.0.3.1.jar"
+        jar="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/exploded-aar/com.couchbase.lite/couchbase-lite-android/1.0.3.1/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="c96078de4bf2ec18e016e1453ef7a441b932ddca">
-        <dex dex="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/pre-dexed/debug/couchbase-lite-java-core-1.0.3.1-b2c2d31ad24684bfec7efbe1a341eb5f285172d2.jar" />
+        sha1="a2fa0cc9a91d6064857f3ecb6cc4d8415982b567">
+        <dex dex="/Users/cdonnelly/Documents/core_workspace/PDFCouchClash/app/build/intermediates/pre-dexed/debug/classes-d4edbbaf38c3658f5a4ddc4db9cc5534a289ab9e.jar" />
     </item>
     <item
         jar="/Users/cdonnelly/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-core-asl/1.9.2/8493982bba1727106d767034bd0d8e77bc1931a9/jackson-core-asl-1.9.2.jar"
